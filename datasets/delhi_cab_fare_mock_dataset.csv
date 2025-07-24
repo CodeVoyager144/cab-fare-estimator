@@ -1,0 +1,501 @@
+pickup_location,drop_location,distance_km,duration_min,hour,dayofweek,is_weekend,temperature,weather_condition,fare_amount
+Saket,Rajouri Garden,6.56,17.2,13,0,0,32.2,Clouds,135.92
+Connaught Place,Chandni Chowk,19.53,65.7,1,6,1,41.2,Clouds,340.06
+Pitampura,Saket,18.92,69.4,17,3,0,33.4,Clouds,386.91
+Dwarka,Saket,17.51,52.3,8,0,0,20.7,Fog,347.78
+Connaught Place,Chandni Chowk,23.9,86.6,8,4,0,30.5,Thunderstorm,570.49
+Karol Bagh,Lajpat Nagar,19.68,77.9,2,6,1,18.8,Fog,354.06
+Rajouri Garden,Vasant Kunj,10.02,28.0,10,3,0,35.4,Clear,216.48
+Dwarka,Karol Bagh,18.74,73.5,20,4,0,24.7,Clear,389.14
+Dwarka,Vasant Kunj,9.87,19.8,9,5,1,23.8,Haze,204.98
+Saket,Chandni Chowk,22.1,67.3,19,4,0,29.7,Fog,428.38
+Rajouri Garden,Lajpat Nagar,20.19,59.0,1,5,1,30.2,Clouds,341.28
+Saket,Kalkaji,5.63,21.4,15,0,0,24.8,Rain,154.75
+Lajpat Nagar,Karol Bagh,22.67,51.3,9,6,1,30.5,Haze,417.84
+Dwarka,Vasant Kunj,9.93,24.7,0,0,0,32.6,Fog,183.86
+Vasant Kunj,Rajouri Garden,6.0,15.9,18,0,0,35.6,Fog,147.09
+Dwarka,Lajpat Nagar,22.15,46.6,10,0,0,41.4,Fog,405.26
+Connaught Place,Lajpat Nagar,10.14,21.3,20,4,0,38.9,Clear,210.43
+Dwarka,Kalkaji,14.99,43.9,10,2,0,33.6,Clear,303.35
+Pitampura,Lajpat Nagar,5.57,14.9,5,2,0,37.8,Rain,146.09
+Saket,Dwarka,6.49,13.6,12,5,1,19.1,Haze,131.48
+Connaught Place,Saket,12.77,30.8,3,1,0,18.2,Clouds,224.04
+Rajouri Garden,Connaught Place,23.98,77.9,5,1,0,28.3,Rain,486.79
+Kalkaji,Pitampura,17.42,50.7,16,3,0,35.1,Haze,299.74
+Pitampura,Karol Bagh,13.29,32.8,17,3,0,21.9,Haze,267.12
+Dwarka,Pitampura,15.35,49.9,21,5,1,39.5,Clouds,274.1
+Chandni Chowk,Saket,6.29,21.1,16,5,1,30.1,Clear,136.58
+Kalkaji,Connaught Place,10.54,22.9,17,6,1,37.4,Fog,217.79
+Saket,Rajouri Garden,18.96,66.5,15,1,0,38.6,Fog,334.02
+Rajouri Garden,Pitampura,12.93,27.4,8,6,1,23.9,Rain,307.13
+Pitampura,Saket,8.86,31.8,13,0,0,37.8,Clear,178.12
+Dwarka,Vasant Kunj,20.15,45.7,3,2,0,24.5,Fog,327.5
+Lajpat Nagar,Chandni Chowk,13.22,39.6,2,5,1,20.5,Fog,238.24
+Saket,Dwarka,10.07,33.8,5,6,1,27.6,Fog,194.64
+Vasant Kunj,Connaught Place,15.66,32.2,17,5,1,32.4,Clouds,299.14
+Dwarka,Vasant Kunj,21.99,54.2,10,6,1,26.1,Clear,411.79
+Connaught Place,Dwarka,7.15,18.0,16,4,0,21.5,Haze,143.8
+Connaught Place,Pitampura,19.79,56.4,22,5,1,34.7,Rain,400.66
+Connaught Place,Lajpat Nagar,23.37,60.7,14,0,0,21.9,Fog,381.14
+Karol Bagh,Pitampura,8.62,34.2,18,1,0,41.7,Thunderstorm,245.14
+Connaught Place,Pitampura,14.24,48.2,11,4,0,32.4,Thunderstorm,310.9
+Pitampura,Kalkaji,21.97,81.8,13,0,0,37.7,Fog,385.44
+Dwarka,Chandni Chowk,11.68,23.6,11,5,1,39.6,Fog,203.76
+Karol Bagh,Lajpat Nagar,21.34,76.4,13,6,1,39.2,Thunderstorm,446.98
+Dwarka,Rajouri Garden,11.45,44.0,14,3,0,23.7,Fog,221.4
+Vasant Kunj,Chandni Chowk,4.7,15.4,10,6,1,31.1,Thunderstorm,154.28
+Saket,Chandni Chowk,16.45,59.2,21,0,0,31.6,Fog,296.6
+Lajpat Nagar,Kalkaji,24.96,99.6,13,5,1,38.1,Rain,526.94
+Lajpat Nagar,Connaught Place,24.01,70.6,12,3,0,40.5,Clear,398.72
+Rajouri Garden,Lajpat Nagar,15.98,53.9,5,6,1,19.9,Thunderstorm,342.79
+Rajouri Garden,Kalkaji,15.23,42.9,23,5,1,38.4,Thunderstorm,318.79
+Kalkaji,Pitampura,24.58,92.0,7,6,1,29.9,Clear,426.96
+Dwarka,Vasant Kunj,10.08,22.4,20,3,0,20.9,Fog,210.86
+Vasant Kunj,Karol Bagh,9.02,25.0,22,6,1,19.4,Clouds,173.24
+Karol Bagh,Vasant Kunj,17.18,37.8,5,3,0,32.7,Clear,283.96
+Pitampura,Saket,7.01,25.4,20,1,0,19.2,Haze,171.95
+Kalkaji,Connaught Place,8.4,20.8,9,0,0,25.4,Haze,185.84
+Vasant Kunj,Connaught Place,18.26,43.1,16,1,0,26.9,Rain,362.66
+Connaught Place,Dwarka,11.38,27.6,13,5,1,31.1,Haze,204.16
+Pitampura,Karol Bagh,14.57,29.8,1,2,0,29.5,Haze,244.64
+Pitampura,Kalkaji,15.76,51.1,6,1,0,20.7,Clouds,280.22
+Pitampura,Chandni Chowk,21.23,49.0,22,6,1,32.9,Clear,343.76
+Dwarka,Vasant Kunj,16.69,58.2,22,3,0,18.8,Fog,298.48
+Saket,Kalkaji,11.13,38.5,8,6,1,29.1,Haze,243.87
+Rajouri Garden,Saket,21.17,47.6,10,3,0,36.7,Fog,392.89
+Connaught Place,Karol Bagh,19.99,45.7,10,5,1,20.9,Rain,449.3
+Kalkaji,Dwarka,8.77,24.3,7,0,0,21.2,Fog,169.54
+Saket,Lajpat Nagar,4.2,12.4,17,4,0,26.4,Fog,118.22
+Chandni Chowk,Saket,23.22,68.6,1,3,0,26.1,Clouds,387.24
+Vasant Kunj,Rajouri Garden,16.48,60.5,12,2,0,27.1,Haze,298.26
+Pitampura,Dwarka,24.28,68.7,13,1,0,25.9,Fog,400.06
+Chandni Chowk,Rajouri Garden,11.41,43.0,15,5,1,39.6,Rain,263.9
+Chandni Chowk,Connaught Place,14.87,53.0,16,3,0,37.0,Rain,325.73
+Pitampura,Chandni Chowk,3.5,10.1,16,0,0,20.6,Fog,92.1
+Lajpat Nagar,Dwarka,7.51,17.9,0,4,0,18.4,Haze,148.02
+Rajouri Garden,Pitampura,16.5,58.8,5,3,0,33.5,Fog,296.8
+Chandni Chowk,Dwarka,13.57,46.0,13,5,1,23.2,Haze,248.84
+Pitampura,Chandni Chowk,3.57,8.7,14,5,1,27.4,Clear,91.54
+Connaught Place,Kalkaji,10.02,29.9,14,6,1,34.4,Haze,190.14
+Chandni Chowk,Saket,7.53,28.8,5,3,0,35.7,Thunderstorm,190.99
+Connaught Place,Vasant Kunj,10.08,21.5,16,5,1,27.6,Clear,182.46
+Chandni Chowk,Dwarka,3.39,7.8,15,4,0,29.5,Haze,88.48
+Chandni Chowk,Connaught Place,24.34,85.3,1,1,0,31.7,Clear,417.38
+Kalkaji,Vasant Kunj,5.25,19.8,5,5,1,20.7,Haze,122.8
+Pitampura,Chandni Chowk,24.99,70.6,22,4,0,20.1,Haze,410.48
+Connaught Place,Pitampura,5.41,10.8,18,6,1,18.6,Fog,133.08
+Chandni Chowk,Rajouri Garden,10.7,21.6,13,5,1,26.0,Clouds,190.0
+Karol Bagh,Kalkaji,12.92,26.9,7,6,1,34.8,Clear,221.94
+Kalkaji,Karol Bagh,6.39,17.7,6,0,0,21.7,Clear,134.38
+Dwarka,Saket,11.19,38.4,13,3,0,22.5,Clouds,212.68
+Pitampura,Connaught Place,23.18,84.1,4,1,0,40.9,Clear,402.26
+Lajpat Nagar,Connaught Place,13.57,44.6,16,5,1,31.1,Rain,296.93
+Karol Bagh,Chandni Chowk,5.56,19.9,6,0,0,39.0,Fog,126.62
+Pitampura,Connaught Place,6.04,20.2,21,2,0,21.3,Clouds,132.68
+Lajpat Nagar,Chandni Chowk,23.3,51.1,23,5,1,40.5,Fog,370.7
+Karol Bagh,Saket,7.22,18.4,18,6,1,37.4,Fog,166.8
+Connaught Place,Karol Bagh,7.84,24.0,21,1,0,34.3,Clear,158.08
+Pitampura,Rajouri Garden,24.34,49.5,3,1,0,18.6,Clear,381.58
+Connaught Place,Saket,15.5,61.6,8,2,0,28.3,Rain,396.89
+Connaught Place,Chandni Chowk,6.64,23.2,17,0,0,28.0,Haze,164.31
+Chandni Chowk,Lajpat Nagar,8.54,28.4,5,4,0,33.8,Clouds,170.88
+Kalkaji,Connaught Place,5.35,20.0,13,4,0,23.0,Clouds,124.2
+Connaught Place,Dwarka,23.6,67.2,9,0,0,26.4,Haze,448.96
+Dwarka,Karol Bagh,19.94,49.2,21,5,1,40.2,Haze,328.48
+Vasant Kunj,Rajouri Garden,23.71,86.2,14,5,1,35.0,Rain,492.86
+Pitampura,Connaught Place,4.99,13.8,9,6,1,31.6,Haze,130.73
+Kalkaji,Dwarka,21.82,66.8,19,6,1,38.5,Clouds,423.94
+Kalkaji,Vasant Kunj,14.87,55.6,20,5,1,36.9,Haze,315.15
+Karol Bagh,Lajpat Nagar,13.16,33.4,15,0,0,41.8,Haze,231.32
+Karol Bagh,Vasant Kunj,15.82,45.5,18,4,0,25.1,Clouds,316.64
+Rajouri Garden,Dwarka,10.86,22.2,2,2,0,32.1,Haze,192.52
+Vasant Kunj,Dwarka,20.68,47.9,18,6,1,41.2,Fog,386.47
+Saket,Chandni Chowk,20.52,71.0,3,4,0,22.9,Fog,357.24
+Pitampura,Dwarka,17.58,46.8,5,1,0,20.2,Clouds,297.76
+Vasant Kunj,Kalkaji,17.1,40.3,16,3,0,31.6,Rain,342.6
+Lajpat Nagar,Karol Bagh,19.38,69.0,19,6,1,18.5,Clear,392.79
+Chandni Chowk,Karol Bagh,6.41,17.1,15,0,0,41.7,Clouds,134.02
+Kalkaji,Chandni Chowk,8.96,27.6,17,1,0,26.7,Thunderstorm,241.67
+Dwarka,Rajouri Garden,24.27,78.4,6,5,1,21.8,Thunderstorm,491.57
+Connaught Place,Saket,4.22,13.1,8,2,0,24.4,Clear,119.3
+Lajpat Nagar,Connaught Place,8.77,26.9,9,1,0,25.5,Clouds,197.96
+Kalkaji,Chandni Chowk,13.8,34.2,14,1,0,37.5,Clouds,239.8
+Rajouri Garden,Lajpat Nagar,9.16,18.7,16,1,0,23.6,Clear,168.62
+Kalkaji,Vasant Kunj,13.82,41.0,22,5,1,38.2,Clear,246.84
+Connaught Place,Dwarka,24.02,68.5,22,5,1,34.9,Clouds,396.74
+Pitampura,Karol Bagh,19.24,39.8,23,2,0,25.1,Rain,372.82
+Vasant Kunj,Lajpat Nagar,9.38,21.6,2,0,0,18.0,Rain,208.99
+Chandni Chowk,Kalkaji,21.16,50.4,19,0,0,25.4,Clouds,395.97
+Lajpat Nagar,Kalkaji,10.17,37.7,11,1,0,32.2,Rain,239.69
+Connaught Place,Saket,24.0,61.4,10,0,0,40.1,Haze,447.81
+Rajouri Garden,Dwarka,22.88,82.9,6,1,0,23.8,Rain,476.95
+Connaught Place,Saket,8.35,32.9,22,4,0,39.5,Fog,173.1
+Connaught Place,Kalkaji,11.65,41.6,23,3,0,39.1,Fog,221.4
+Rajouri Garden,Pitampura,8.52,24.3,9,3,0,23.9,Rain,229.83
+Kalkaji,Dwarka,20.73,79.7,4,6,1,24.9,Rain,442.15
+Connaught Place,Rajouri Garden,10.03,39.4,13,1,0,25.1,Rain,239.71
+Kalkaji,Chandni Chowk,6.34,21.9,14,6,1,39.5,Thunderstorm,165.58
+Dwarka,Kalkaji,19.67,40.2,15,1,0,35.3,Clear,316.24
+Lajpat Nagar,Rajouri Garden,19.42,71.4,10,0,0,23.3,Rain,475.33
+Dwarka,Kalkaji,23.33,92.2,14,6,1,41.3,Clouds,412.16
+Dwarka,Lajpat Nagar,10.21,38.3,20,2,0,35.3,Rain,277.13
+Pitampura,Saket,18.98,56.2,3,6,1,24.2,Clouds,323.96
+Kalkaji,Lajpat Nagar,13.32,49.3,3,0,0,27.8,Clear,249.14
+Lajpat Nagar,Chandni Chowk,19.06,54.9,10,6,1,40.0,Clear,372.16
+Vasant Kunj,Lajpat Nagar,4.92,12.4,4,3,0,23.6,Rain,133.73
+Rajouri Garden,Chandni Chowk,24.38,76.4,14,4,0,28.7,Thunderstorm,490.75
+Lajpat Nagar,Pitampura,4.6,17.7,6,5,1,22.4,Clear,112.9
+Pitampura,Karol Bagh,15.13,35.6,11,0,0,34.4,Rain,308.59
+Pitampura,Dwarka,4.38,17.2,2,0,0,19.6,Clear,109.76
+Dwarka,Vasant Kunj,12.35,44.1,23,5,1,32.4,Clear,232.3
+Rajouri Garden,Pitampura,21.34,70.9,16,5,1,30.7,Rain,440.38
+Kalkaji,Vasant Kunj,10.27,39.1,11,4,0,40.5,Fog,202.34
+Lajpat Nagar,Vasant Kunj,11.6,40.6,18,2,0,27.2,Rain,303.32
+Chandni Chowk,Vasant Kunj,20.78,42.1,6,1,0,36.8,Haze,331.46
+Karol Bagh,Connaught Place,14.22,30.0,15,4,0,22.8,Haze,240.64
+Vasant Kunj,Connaught Place,12.72,48.3,13,2,0,31.0,Thunderstorm,289.13
+Lajpat Nagar,Rajouri Garden,23.76,62.9,8,2,0,23.2,Fog,446.22
+Saket,Connaught Place,22.69,46.1,3,6,1,26.3,Haze,358.38
+Pitampura,Karol Bagh,8.3,23.5,8,6,1,37.3,Rain,225.08
+Pitampura,Karol Bagh,10.18,39.6,4,5,1,20.2,Rain,242.11
+Connaught Place,Dwarka,10.63,35.7,2,2,0,37.5,Fog,203.26
+Karol Bagh,Kalkaji,10.12,33.7,12,1,0,19.6,Fog,195.14
+Pitampura,Dwarka,19.86,58.6,18,5,1,19.2,Clear,387.46
+Rajouri Garden,Karol Bagh,10.47,29.7,0,3,0,38.9,Rain,234.41
+Pitampura,Lajpat Nagar,22.92,78.7,17,4,0,32.9,Haze,452.8
+Lajpat Nagar,Vasant Kunj,11.12,24.2,13,6,1,35.6,Clear,197.64
+Vasant Kunj,Dwarka,7.27,27.8,22,3,0,35.9,Rain,186.05
+Rajouri Garden,Kalkaji,4.2,8.8,7,6,1,38.9,Haze,99.2
+Connaught Place,Lajpat Nagar,5.49,20.1,23,3,0,20.2,Clouds,125.98
+Vasant Kunj,Kalkaji,22.23,66.8,10,2,0,33.4,Rain,515.51
+Saket,Vasant Kunj,10.99,31.2,5,1,0,24.4,Thunderstorm,243.7
+Saket,Vasant Kunj,3.98,13.0,9,6,1,40.3,Rain,139.05
+Lajpat Nagar,Saket,10.14,28.2,3,2,0,34.1,Haze,189.88
+Rajouri Garden,Kalkaji,9.89,23.9,12,6,1,37.5,Haze,182.58
+Connaught Place,Lajpat Nagar,14.08,53.0,16,5,1,19.7,Clouds,261.96
+Pitampura,Karol Bagh,20.13,60.5,21,0,0,36.6,Fog,342.06
+Karol Bagh,Kalkaji,4.6,16.5,23,0,0,30.4,Fog,111.7
+Saket,Connaught Place,3.96,8.1,22,6,1,18.1,Thunderstorm,114.74
+Pitampura,Dwarka,13.59,54.2,16,4,0,41.7,Thunderstorm,308.74
+Rajouri Garden,Vasant Kunj,11.34,25.7,0,3,0,38.7,Haze,201.78
+Rajouri Garden,Vasant Kunj,22.36,57.7,14,5,1,31.3,Rain,439.22
+Karol Bagh,Connaught Place,19.45,39.6,3,0,0,40.9,Haze,313.0
+Karol Bagh,Saket,7.91,26.9,12,3,0,23.9,Haze,161.82
+Kalkaji,Karol Bagh,4.2,9.1,21,0,0,41.9,Clouds,99.5
+Kalkaji,Saket,8.33,29.4,16,6,1,38.6,Thunderstorm,203.23
+Saket,Kalkaji,24.48,54.4,14,1,0,27.4,Fog,388.16
+Dwarka,Kalkaji,12.72,26.6,14,4,0,22.4,Clouds,219.24
+Karol Bagh,Pitampura,21.15,71.2,0,4,0,28.8,Thunderstorm,438.0
+Karol Bagh,Kalkaji,14.06,43.8,7,5,1,38.2,Clouds,252.52
+Kalkaji,Chandni Chowk,13.16,26.7,19,2,0,30.6,Clear,258.31
+Lajpat Nagar,Chandni Chowk,8.56,33.8,1,1,0,26.6,Thunderstorm,211.82
+Lajpat Nagar,Kalkaji,15.18,32.1,9,1,0,30.8,Fog,292.4
+Karol Bagh,Saket,4.08,12.1,22,0,0,31.0,Haze,101.06
+Vasant Kunj,Saket,17.89,63.1,6,1,0,35.8,Thunderstorm,381.34
+Chandni Chowk,Kalkaji,7.13,23.3,12,6,1,23.7,Thunderstorm,178.63
+Rajouri Garden,Dwarka,20.51,44.4,7,0,0,29.0,Clouds,330.52
+Pitampura,Kalkaji,10.59,27.9,7,4,0,22.0,Clouds,194.98
+Lajpat Nagar,Vasant Kunj,24.37,74.8,2,2,0,41.0,Haze,407.24
+Pitampura,Saket,14.54,42.9,23,4,0,22.2,Rain,308.86
+Karol Bagh,Kalkaji,20.61,50.5,4,4,0,33.4,Haze,337.82
+Dwarka,Chandni Chowk,16.46,49.7,16,3,0,21.4,Thunderstorm,344.66
+Lajpat Nagar,Rajouri Garden,18.68,63.7,14,3,0,34.7,Fog,327.86
+Karol Bagh,Vasant Kunj,10.63,26.5,3,1,0,27.5,Rain,232.87
+Pitampura,Chandni Chowk,4.5,9.0,18,4,0,19.7,Haze,118.45
+Connaught Place,Dwarka,24.24,74.9,11,1,0,22.1,Rain,486.94
+Vasant Kunj,Karol Bagh,15.1,56.9,18,0,0,29.6,Clouds,319.81
+Pitampura,Chandni Chowk,11.58,25.2,23,2,0,23.9,Clear,204.16
+Vasant Kunj,Saket,21.2,68.7,1,3,0,39.7,Haze,363.1
+Chandni Chowk,Dwarka,3.41,8.4,17,3,0,38.8,Rain,123.26
+Pitampura,Chandni Chowk,13.77,54.9,17,4,0,33.2,Clear,299.16
+Vasant Kunj,Karol Bagh,4.51,13.9,13,1,0,26.9,Clouds,108.02
+Vasant Kunj,Lajpat Nagar,20.17,68.9,21,4,0,37.4,Haze,350.94
+Kalkaji,Saket,20.41,44.3,12,3,0,36.5,Clouds,329.22
+Dwarka,Pitampura,9.56,25.2,6,0,0,39.7,Rain,215.9
+Dwarka,Rajouri Garden,21.84,81.0,12,3,0,35.8,Clouds,383.08
+Karol Bagh,Vasant Kunj,16.64,49.3,1,5,1,23.5,Haze,288.98
+Vasant Kunj,Kalkaji,20.29,60.6,11,4,0,18.3,Fog,344.08
+Chandni Chowk,Dwarka,3.71,11.9,17,5,1,20.6,Thunderstorm,133.06
+Rajouri Garden,Lajpat Nagar,21.72,59.1,17,1,0,32.2,Fog,413.7
+Kalkaji,Connaught Place,22.7,70.2,4,3,0,29.8,Haze,382.6
+Connaught Place,Saket,16.72,57.1,17,1,0,40.6,Thunderstorm,410.88
+Rajouri Garden,Connaught Place,24.0,84.0,18,5,1,39.5,Clear,473.8
+Karol Bagh,Kalkaji,12.11,44.1,7,2,0,24.9,Clear,229.42
+Lajpat Nagar,Karol Bagh,24.47,58.1,16,0,0,23.3,Clouds,391.74
+Rajouri Garden,Vasant Kunj,12.3,38.2,8,0,0,36.5,Clouds,259.67
+Saket,Chandni Chowk,20.2,75.2,22,2,0,29.0,Clear,357.6
+Connaught Place,Dwarka,21.63,59.1,3,1,0,19.4,Fog,358.66
+Vasant Kunj,Chandni Chowk,19.78,75.3,7,6,1,23.5,Haze,352.66
+Rajouri Garden,Kalkaji,7.28,28.2,4,1,0,25.2,Thunderstorm,186.67
+Connaught Place,Kalkaji,8.71,26.0,12,4,0,29.1,Thunderstorm,204.62
+Karol Bagh,Pitampura,22.29,77.6,10,5,1,27.8,Clear,442.84
+Dwarka,Kalkaji,5.74,22.6,19,2,0,26.3,Thunderstorm,181.44
+Rajouri Garden,Connaught Place,19.64,72.9,9,1,0,41.6,Haze,400.87
+Dwarka,Kalkaji,4.58,12.4,6,5,1,22.2,Clear,107.36
+Pitampura,Chandni Chowk,22.68,74.0,12,4,0,37.7,Rain,463.39
+Kalkaji,Vasant Kunj,20.45,54.1,8,0,0,40.1,Rain,468.51
+Dwarka,Kalkaji,13.77,36.4,15,6,1,31.4,Fog,241.64
+Karol Bagh,Rajouri Garden,4.99,16.5,13,2,0,37.1,Haze,116.38
+Vasant Kunj,Connaught Place,22.93,60.5,3,1,0,34.3,Fog,375.66
+Dwarka,Kalkaji,16.68,39.6,0,4,0,21.0,Thunderstorm,335.71
+Kalkaji,Chandni Chowk,7.76,22.5,17,4,0,20.5,Clear,178.96
+Rajouri Garden,Saket,19.21,70.3,16,0,0,29.5,Clouds,340.82
+Vasant Kunj,Connaught Place,17.84,47.6,7,5,1,30.9,Rain,362.02
+Chandni Chowk,Pitampura,13.96,52.2,14,5,1,37.8,Fog,259.72
+Karol Bagh,Kalkaji,8.34,25.2,20,4,0,31.2,Fog,190.07
+Rajouri Garden,Lajpat Nagar,12.91,30.4,17,5,1,21.4,Clouds,259.12
+Rajouri Garden,Vasant Kunj,3.31,6.8,10,5,1,18.4,Clouds,99.5
+Pitampura,Dwarka,19.37,59.3,22,5,1,38.3,Fog,331.74
+Saket,Chandni Chowk,21.17,79.4,19,1,0,28.7,Thunderstorm,515.35
+Dwarka,Kalkaji,19.97,77.3,5,6,1,27.5,Fog,356.94
+Karol Bagh,Pitampura,8.96,23.4,16,1,0,21.7,Clouds,170.92
+Vasant Kunj,Rajouri Garden,24.18,58.8,22,0,0,31.7,Clouds,388.96
+Chandni Chowk,Karol Bagh,19.08,71.7,21,1,0,32.7,Clouds,340.66
+Dwarka,Saket,21.48,53.7,12,1,0,36.9,Fog,351.46
+Connaught Place,Saket,20.16,47.9,6,6,1,30.1,Thunderstorm,395.78
+Karol Bagh,Saket,15.58,31.4,22,2,0,40.9,Clear,258.36
+Karol Bagh,Kalkaji,13.4,47.5,15,4,0,33.8,Haze,248.3
+Lajpat Nagar,Rajouri Garden,17.35,56.8,17,5,1,36.2,Clouds,350.75
+Saket,Pitampura,21.04,83.9,18,3,0,41.5,Haze,432.84
+Rajouri Garden,Dwarka,15.99,56.5,2,2,0,31.3,Clear,288.38
+Kalkaji,Dwarka,16.27,46.4,16,2,0,18.6,Fog,281.64
+Connaught Place,Kalkaji,10.09,38.2,23,2,0,34.8,Haze,199.28
+Connaught Place,Saket,24.4,56.1,17,2,0,30.4,Haze,447.23
+Dwarka,Saket,11.74,31.4,18,0,0,36.0,Clear,244.12
+Vasant Kunj,Chandni Chowk,21.84,64.0,5,0,0,27.3,Fog,366.08
+Vasant Kunj,Connaught Place,14.96,35.8,6,1,0,39.2,Haze,255.32
+Chandni Chowk,Rajouri Garden,15.1,36.9,11,5,1,36.9,Fog,258.1
+Connaught Place,Pitampura,13.62,38.0,17,4,0,18.4,Clear,277.66
+Rajouri Garden,Lajpat Nagar,12.47,39.6,7,2,0,31.2,Clouds,229.24
+Vasant Kunj,Karol Bagh,3.71,10.6,7,3,0,35.8,Clouds,95.12
+Dwarka,Kalkaji,22.76,69.4,2,6,1,20.9,Thunderstorm,459.02
+Karol Bagh,Connaught Place,23.84,89.0,2,6,1,28.4,Clouds,415.08
+Connaught Place,Pitampura,19.3,72.7,8,3,0,35.5,Rain,475.13
+Kalkaji,Chandni Chowk,19.91,43.9,9,5,1,22.2,Haze,371.24
+Karol Bagh,Vasant Kunj,22.82,79.8,5,0,0,22.9,Clear,393.64
+Vasant Kunj,Connaught Place,12.87,26.7,21,5,1,21.7,Thunderstorm,265.37
+Pitampura,Vasant Kunj,13.34,48.3,0,0,0,35.5,Clear,248.38
+Vasant Kunj,Dwarka,23.92,77.7,11,5,1,34.9,Fog,404.74
+Saket,Karol Bagh,18.25,61.9,17,4,0,18.5,Thunderstorm,442.84
+Pitampura,Karol Bagh,7.05,26.2,23,5,1,28.8,Clear,150.8
+Saket,Vasant Kunj,16.23,38.9,16,1,0,22.0,Rain,328.39
+Lajpat Nagar,Vasant Kunj,18.72,67.7,21,1,0,22.4,Clouds,332.34
+Kalkaji,Saket,16.2,54.4,17,2,0,21.1,Rain,398.54
+Chandni Chowk,Kalkaji,4.57,16.0,12,1,0,29.8,Clear,110.84
+Rajouri Garden,Kalkaji,10.81,36.3,11,6,1,24.9,Thunderstorm,247.22
+Dwarka,Karol Bagh,10.46,27.7,5,3,0,35.9,Clouds,193.22
+Pitampura,Lajpat Nagar,14.71,43.2,15,6,1,31.8,Rain,311.66
+Kalkaji,Dwarka,16.48,48.3,10,2,0,18.1,Haze,328.97
+Dwarka,Karol Bagh,13.34,44.1,5,6,1,19.1,Fog,244.18
+Connaught Place,Karol Bagh,12.41,33.0,18,6,1,18.4,Rain,306.25
+Karol Bagh,Vasant Kunj,17.81,45.5,22,3,0,41.7,Rain,359.06
+Rajouri Garden,Kalkaji,24.27,74.0,6,5,1,28.0,Haze,405.24
+Karol Bagh,Kalkaji,14.81,33.0,12,6,1,22.9,Clouds,250.72
+Karol Bagh,Vasant Kunj,6.85,26.1,3,0,0,30.0,Thunderstorm,177.96
+Connaught Place,Dwarka,17.73,43.5,2,5,1,32.4,Fog,296.26
+Connaught Place,Chandni Chowk,16.07,42.4,16,0,0,21.2,Clear,275.24
+Saket,Pitampura,8.4,23.9,6,5,1,18.3,Fog,164.7
+Vasant Kunj,Rajouri Garden,8.73,30.9,13,6,1,27.7,Fog,175.66
+Vasant Kunj,Lajpat Nagar,6.41,15.8,1,5,1,19.4,Rain,159.26
+Connaught Place,Chandni Chowk,15.89,36.1,3,6,1,39.7,Clear,266.78
+Lajpat Nagar,Saket,22.72,60.8,14,3,0,30.5,Haze,373.44
+Karol Bagh,Lajpat Nagar,7.47,23.5,19,0,0,36.3,Thunderstorm,211.33
+Kalkaji,Chandni Chowk,4.47,11.3,5,1,0,30.8,Rain,125.93
+Chandni Chowk,Saket,22.81,87.4,18,4,0,31.5,Rain,553.55
+Vasant Kunj,Connaught Place,13.74,45.0,9,0,0,36.6,Thunderstorm,344.83
+Vasant Kunj,Saket,5.22,18.7,20,5,1,33.2,Fog,139.54
+Saket,Chandni Chowk,21.75,57.9,19,6,1,22.7,Rain,495.28
+Vasant Kunj,Rajouri Garden,20.48,74.3,18,5,1,38.4,Fog,414.07
+Pitampura,Chandni Chowk,19.7,54.8,0,1,0,34.1,Haze,331.2
+Pitampura,Karol Bagh,16.74,66.0,21,2,0,22.3,Clouds,306.88
+Vasant Kunj,Rajouri Garden,20.1,55.4,15,0,0,36.1,Clouds,336.6
+Vasant Kunj,Lajpat Nagar,7.63,24.7,14,2,0,33.4,Clear,156.26
+Dwarka,Chandni Chowk,10.42,28.5,3,2,0,35.2,Clouds,193.54
+Rajouri Garden,Karol Bagh,23.88,79.3,9,6,1,31.7,Clear,466.74
+Connaught Place,Kalkaji,12.27,29.1,0,0,0,20.7,Fog,216.34
+Rajouri Garden,Karol Bagh,15.58,55.0,8,5,1,31.9,Fog,324.25
+Connaught Place,Chandni Chowk,8.8,20.1,18,6,1,31.2,Clouds,190.56
+Karol Bagh,Saket,18.12,48.8,23,0,0,33.9,Haze,306.24
+Karol Bagh,Pitampura,6.52,20.1,12,3,0,20.2,Clouds,138.34
+Connaught Place,Lajpat Nagar,23.3,90.5,2,0,0,26.9,Clear,410.1
+Kalkaji,Chandni Chowk,4.7,14.9,10,1,0,23.2,Fog,128.0
+Saket,Dwarka,15.74,50.3,9,6,1,41.2,Clear,321.06
+Karol Bagh,Chandni Chowk,12.5,43.3,7,2,0,32.4,Fog,233.3
+Lajpat Nagar,Pitampura,4.11,15.1,11,3,0,25.1,Fog,104.42
+Chandni Chowk,Pitampura,10.42,27.3,6,0,0,41.0,Thunderstorm,230.81
+Dwarka,Rajouri Garden,7.45,28.0,17,3,0,23.2,Fog,181.01
+Kalkaji,Rajouri Garden,14.81,55.7,8,5,1,35.1,Clouds,314.43
+Connaught Place,Lajpat Nagar,19.98,47.6,12,2,0,34.5,Clouds,327.36
+Connaught Place,Kalkaji,19.95,67.5,8,1,0,38.3,Clear,398.93
+Connaught Place,Lajpat Nagar,3.82,13.8,11,2,0,35.1,Fog,99.64
+Saket,Connaught Place,13.8,39.9,13,4,0,36.0,Clear,245.5
+Connaught Place,Vasant Kunj,20.58,68.3,3,1,0,40.8,Rain,426.31
+Dwarka,Rajouri Garden,3.25,11.5,18,3,0,36.1,Thunderstorm,124.89
+Vasant Kunj,Saket,6.52,22.8,9,0,0,20.4,Thunderstorm,194.64
+Pitampura,Kalkaji,20.35,51.9,2,4,0,19.9,Thunderstorm,403.32
+Vasant Kunj,Lajpat Nagar,4.12,15.0,6,2,0,35.9,Clouds,104.44
+Rajouri Garden,Karol Bagh,5.03,15.1,9,2,0,38.4,Thunderstorm,159.33
+Saket,Kalkaji,10.51,31.4,9,4,0,39.0,Rain,272.58
+Pitampura,Karol Bagh,14.61,40.0,13,6,1,20.0,Thunderstorm,306.38
+Karol Bagh,Dwarka,12.53,41.9,5,3,0,22.7,Haze,232.26
+Karol Bagh,Lajpat Nagar,9.03,23.3,15,2,0,37.1,Clouds,171.66
+Dwarka,Saket,17.0,46.3,16,0,0,37.1,Fog,290.3
+Lajpat Nagar,Connaught Place,14.49,38.4,2,4,0,37.5,Rain,302.74
+Karol Bagh,Pitampura,9.37,36.7,20,5,1,23.1,Rain,261.01
+Rajouri Garden,Dwarka,18.65,50.0,6,4,0,31.0,Thunderstorm,376.56
+Pitampura,Connaught Place,12.72,43.7,0,1,0,32.0,Rain,283.61
+Dwarka,Connaught Place,7.21,17.1,13,3,0,18.4,Clouds,143.62
+Lajpat Nagar,Kalkaji,10.63,28.5,18,6,1,21.5,Fog,225.47
+Lajpat Nagar,Kalkaji,15.42,42.0,22,1,0,24.2,Rain,320.45
+Kalkaji,Lajpat Nagar,24.24,78.6,12,2,0,36.2,Clouds,409.48
+Saket,Vasant Kunj,12.15,29.2,5,1,0,33.0,Haze,215.0
+Kalkaji,Lajpat Nagar,24.76,76.8,20,2,0,25.2,Rain,571.21
+Connaught Place,Kalkaji,15.4,33.7,9,6,1,34.2,Thunderstorm,356.73
+Connaught Place,Dwarka,17.92,48.7,22,1,0,28.9,Fog,303.74
+Chandni Chowk,Dwarka,20.62,45.1,21,6,1,38.9,Haze,332.54
+Lajpat Nagar,Connaught Place,16.9,62.8,12,6,1,41.7,Clouds,305.6
+Chandni Chowk,Lajpat Nagar,7.33,28.3,9,1,0,35.1,Clear,179.7
+Chandni Chowk,Vasant Kunj,21.32,75.8,13,5,1,29.4,Rain,445.97
+Dwarka,Saket,13.27,45.7,8,5,1,33.0,Clouds,281.68
+Chandni Chowk,Saket,10.64,35.2,20,6,1,28.8,Clear,233.31
+Rajouri Garden,Lajpat Nagar,21.45,47.9,15,5,1,36.3,Clear,345.3
+Lajpat Nagar,Chandni Chowk,12.41,47.2,19,1,0,41.5,Clouds,271.54
+Dwarka,Karol Bagh,18.81,65.2,12,6,1,39.2,Clouds,330.92
+Chandni Chowk,Pitampura,5.83,15.1,1,3,0,21.3,Rain,150.07
+Vasant Kunj,Dwarka,21.63,52.6,12,1,0,28.2,Rain,422.59
+Connaught Place,Rajouri Garden,22.01,73.4,12,5,1,26.7,Rain,453.02
+Rajouri Garden,Saket,3.17,6.3,1,2,0,27.0,Fog,84.34
+Kalkaji,Vasant Kunj,5.78,13.4,13,5,1,38.9,Rain,147.31
+Connaught Place,Saket,17.66,50.5,4,3,0,18.6,Fog,302.42
+Saket,Kalkaji,8.87,35.3,18,3,0,30.9,Clouds,209.0
+Vasant Kunj,Karol Bagh,12.31,38.0,10,1,0,37.0,Thunderstorm,311.49
+Karol Bagh,Rajouri Garden,16.26,60.1,21,5,1,35.8,Thunderstorm,354.26
+Karol Bagh,Kalkaji,21.64,66.0,6,5,1,25.9,Clear,365.68
+Saket,Connaught Place,17.75,47.0,4,5,1,30.0,Rain,360.0
+Vasant Kunj,Kalkaji,11.8,45.3,6,6,1,38.3,Thunderstorm,272.28
+Lajpat Nagar,Saket,12.32,43.8,1,2,0,34.0,Haze,231.64
+Vasant Kunj,Kalkaji,4.21,11.7,10,4,0,34.8,Clear,117.55
+Kalkaji,Connaught Place,5.59,21.9,15,4,0,30.9,Clear,128.98
+Karol Bagh,Lajpat Nagar,13.61,50.2,16,5,1,21.7,Thunderstorm,304.22
+Pitampura,Saket,5.91,12.0,3,0,0,18.8,Rain,147.5
+Saket,Vasant Kunj,22.59,64.7,16,0,0,24.0,Clouds,375.78
+Lajpat Nagar,Saket,14.0,46.5,0,1,0,31.7,Clear,254.5
+Lajpat Nagar,Rajouri Garden,17.3,57.4,12,3,0,28.7,Rain,366.0
+Connaught Place,Pitampura,24.87,82.0,23,0,0,37.6,Clouds,420.44
+Pitampura,Vasant Kunj,4.64,15.7,16,4,0,26.8,Rain,133.66
+Kalkaji,Rajouri Garden,15.09,59.9,8,0,0,21.2,Rain,387.75
+Connaught Place,Karol Bagh,11.53,38.9,0,2,0,38.4,Rain,260.71
+Chandni Chowk,Vasant Kunj,13.35,28.4,19,5,1,26.6,Haze,262.89
+Connaught Place,Lajpat Nagar,15.8,60.8,23,0,0,19.3,Thunderstorm,348.48
+Karol Bagh,Kalkaji,11.17,31.5,16,2,0,27.6,Clear,205.54
+Karol Bagh,Pitampura,16.82,34.3,5,1,0,28.6,Clear,276.14
+Pitampura,Karol Bagh,24.03,92.7,0,4,0,28.9,Thunderstorm,505.27
+Rajouri Garden,Pitampura,3.0,8.7,0,6,1,18.7,Fog,84.7
+Connaught Place,Rajouri Garden,16.42,51.2,15,5,1,39.3,Clouds,288.24
+Lajpat Nagar,Pitampura,18.44,43.3,11,2,0,28.2,Clouds,304.58
+Kalkaji,Karol Bagh,12.51,34.8,21,3,0,35.1,Fog,224.92
+Rajouri Garden,Kalkaji,7.8,21.3,7,3,0,19.6,Thunderstorm,185.88
+Rajouri Garden,Vasant Kunj,8.41,18.9,16,2,0,26.2,Clouds,159.82
+Dwarka,Rajouri Garden,7.65,28.2,9,2,0,37.4,Rain,220.8
+Connaught Place,Kalkaji,15.98,63.4,22,1,0,21.4,Fog,295.16
+Connaught Place,Chandni Chowk,15.4,38.8,15,4,0,26.7,Haze,263.6
+Connaught Place,Kalkaji,13.06,36.9,11,3,0,18.8,Fog,233.62
+Pitampura,Chandni Chowk,12.31,25.8,0,1,0,26.0,Rain,256.22
+Connaught Place,Pitampura,3.44,10.0,9,6,1,40.7,Haze,104.97
+Pitampura,Kalkaji,24.02,95.7,11,0,0,36.6,Fog,423.94
+Pitampura,Lajpat Nagar,12.06,33.6,3,0,0,36.2,Haze,218.32
+Pitampura,Lajpat Nagar,19.9,53.6,13,5,1,27.9,Rain,398.88
+Saket,Rajouri Garden,22.02,49.3,1,1,0,39.4,Thunderstorm,424.25
+Vasant Kunj,Rajouri Garden,19.29,47.4,7,1,0,28.0,Thunderstorm,382.66
+Dwarka,Saket,12.63,48.0,13,2,0,27.9,Haze,239.56
+Connaught Place,Kalkaji,14.41,35.0,22,1,0,36.9,Haze,247.92
+Lajpat Nagar,Karol Bagh,23.41,71.0,6,4,0,20.0,Fog,391.92
+Karol Bagh,Kalkaji,20.74,46.5,20,0,0,41.6,Rain,462.82
+Saket,Pitampura,6.13,18.9,4,4,0,36.6,Thunderstorm,158.95
+Connaught Place,Lajpat Nagar,5.23,13.3,3,0,0,27.8,Fog,116.06
+Kalkaji,Vasant Kunj,11.68,26.6,3,5,1,35.7,Thunderstorm,248.11
+Karol Bagh,Chandni Chowk,17.86,53.7,19,6,1,36.3,Fog,354.22
+Karol Bagh,Saket,7.23,16.4,8,4,0,20.2,Thunderstorm,197.56
+Kalkaji,Lajpat Nagar,22.78,54.7,14,6,1,27.4,Fog,368.06
+Rajouri Garden,Dwarka,4.02,10.3,7,6,1,19.4,Haze,98.54
+Chandni Chowk,Karol Bagh,20.42,61.3,7,4,0,33.6,Fog,346.34
+Saket,Rajouri Garden,4.04,14.5,13,1,0,25.2,Haze,102.98
+Dwarka,Vasant Kunj,9.38,26.2,15,3,0,36.1,Thunderstorm,214.51
+Lajpat Nagar,Karol Bagh,10.2,22.8,15,0,0,32.0,Fog,185.2
+Kalkaji,Dwarka,4.34,10.3,0,5,1,38.5,Clouds,102.38
+Dwarka,Kalkaji,23.72,75.0,21,1,0,40.3,Clear,399.64
+Kalkaji,Connaught Place,19.12,70.3,13,3,0,29.1,Fog,339.74
+Karol Bagh,Rajouri Garden,9.1,28.5,9,4,0,32.5,Thunderstorm,245.23
+Karol Bagh,Chandni Chowk,19.1,73.1,19,3,0,37.8,Haze,393.65
+Saket,Vasant Kunj,17.58,50.0,7,3,0,30.8,Thunderstorm,361.15
+Dwarka,Kalkaji,16.82,51.5,6,5,1,20.6,Clouds,293.34
+Chandni Chowk,Dwarka,8.48,25.0,7,1,0,29.5,Clouds,166.76
+Saket,Vasant Kunj,23.14,90.2,1,6,1,39.3,Fog,407.88
+Vasant Kunj,Pitampura,4.81,16.2,5,6,1,18.9,Haze,113.92
+Connaught Place,Kalkaji,11.95,33.9,21,4,0,24.6,Clear,217.3
+Connaught Place,Kalkaji,14.5,54.6,11,3,0,28.5,Clear,268.6
+Lajpat Nagar,Rajouri Garden,22.19,57.1,11,0,0,35.6,Clouds,363.38
+Lajpat Nagar,Saket,4.16,16.4,17,0,0,29.5,Clear,122.27
+Karol Bagh,Rajouri Garden,4.73,10.7,12,2,0,30.9,Rain,128.95
+Pitampura,Saket,8.81,31.0,5,0,0,23.6,Clear,176.72
+Kalkaji,Dwarka,22.38,82.3,20,5,1,25.1,Rain,539.39
+Saket,Connaught Place,8.27,19.1,19,2,0,36.9,Fog,182.09
+Connaught Place,Pitampura,8.6,21.4,23,1,0,21.1,Rain,197.52
+Lajpat Nagar,Vasant Kunj,12.84,27.3,22,6,1,29.5,Clear,221.38
+Rajouri Garden,Kalkaji,14.63,46.2,4,2,0,38.9,Thunderstorm,314.11
+Saket,Karol Bagh,17.82,49.7,5,1,0,21.3,Fog,303.54
+Kalkaji,Karol Bagh,3.38,10.0,7,3,0,32.0,Clear,90.56
+Vasant Kunj,Dwarka,18.26,37.2,2,3,0,25.9,Rain,355.58
+Karol Bagh,Kalkaji,20.74,41.9,3,2,0,41.2,Thunderstorm,396.94
+Kalkaji,Vasant Kunj,19.12,69.4,23,3,0,22.4,Rain,406.61
+Vasant Kunj,Saket,8.16,30.3,17,5,1,18.4,Fog,193.45
+Lajpat Nagar,Chandni Chowk,6.76,18.1,23,3,0,36.4,Haze,139.22
+Dwarka,Kalkaji,16.62,52.0,14,5,1,31.3,Haze,291.44
+Connaught Place,Kalkaji,16.57,48.1,16,2,0,37.3,Haze,286.94
+Vasant Kunj,Rajouri Garden,22.57,56.4,0,2,0,23.9,Thunderstorm,440.69
+Kalkaji,Rajouri Garden,14.87,57.0,3,5,1,41.0,Clear,275.44
+Karol Bagh,Dwarka,7.88,27.5,4,4,0,35.6,Clouds,162.06
+Pitampura,Saket,5.58,14.6,11,6,1,34.8,Clear,121.56
+Vasant Kunj,Kalkaji,23.02,68.7,22,3,0,32.6,Thunderstorm,461.93
+Connaught Place,Lajpat Nagar,22.18,61.6,21,3,0,25.7,Clouds,367.76
+Saket,Kalkaji,17.89,55.5,9,5,1,41.7,Thunderstorm,428.05
+Rajouri Garden,Pitampura,6.18,15.8,1,3,0,34.9,Clouds,129.96
+Dwarka,Karol Bagh,6.86,14.2,2,4,0,33.1,Fog,136.52
+Connaught Place,Pitampura,19.79,62.8,8,1,0,30.8,Thunderstorm,469.59
+Kalkaji,Dwarka,5.0,13.8,23,0,0,36.7,Haze,113.8
+Vasant Kunj,Dwarka,23.24,93.0,5,4,0,36.4,Clear,411.88
+Dwarka,Saket,18.45,47.7,6,0,0,34.9,Thunderstorm,370.92
+Lajpat Nagar,Pitampura,10.47,32.1,6,1,0,37.5,Fog,197.74
+Dwarka,Vasant Kunj,5.34,13.8,8,1,0,39.5,Fog,135.56
+Connaught Place,Karol Bagh,15.12,35.8,15,4,0,36.9,Thunderstorm,308.69
+Kalkaji,Chandni Chowk,11.89,38.0,13,4,0,34.7,Haze,220.68
+Chandni Chowk,Dwarka,13.72,37.0,14,0,0,27.4,Thunderstorm,289.97
+Kalkaji,Connaught Place,11.84,30.2,23,3,0,24.5,Clear,212.28
+Saket,Connaught Place,15.12,30.6,19,4,0,22.9,Clouds,289.85
+Karol Bagh,Dwarka,14.72,46.7,5,2,0,34.9,Thunderstorm,316.01
+Dwarka,Saket,18.97,39.5,13,5,1,28.4,Clear,307.14
+Karol Bagh,Connaught Place,24.34,57.7,14,0,0,40.7,Clear,389.78
+Connaught Place,Saket,8.3,27.3,8,4,0,25.8,Fog,191.94
+Saket,Kalkaji,10.68,33.9,8,3,0,36.6,Clouds,232.37
+Dwarka,Saket,15.63,50.6,17,4,0,23.5,Clear,319.88
+Karol Bagh,Saket,9.49,31.6,11,6,1,23.2,Clouds,185.48
+Karol Bagh,Saket,5.05,19.0,6,1,0,32.4,Haze,119.6
+Vasant Kunj,Lajpat Nagar,3.22,8.3,21,5,1,41.1,Rain,104.33
+Chandni Chowk,Pitampura,8.99,35.2,11,5,1,38.9,Rain,219.7
+Pitampura,Connaught Place,6.59,24.2,4,4,0,18.2,Clear,143.28
+Kalkaji,Karol Bagh,16.91,66.6,6,6,1,23.5,Thunderstorm,371.42
+Chandni Chowk,Vasant Kunj,10.31,23.0,21,5,1,31.1,Thunderstorm,224.06
+Chandni Chowk,Pitampura,8.34,30.0,18,4,0,36.3,Fog,195.59
+Karol Bagh,Connaught Place,6.05,14.8,3,3,0,37.6,Haze,127.4
+Karol Bagh,Saket,3.15,11.9,15,5,1,41.3,Clouds,89.7
+Saket,Karol Bagh,5.94,22.3,17,6,1,36.0,Rain,184.34
+Chandni Chowk,Karol Bagh,24.72,82.3,4,6,1,25.9,Thunderstorm,502.73
+Chandni Chowk,Lajpat Nagar,7.46,27.4,7,5,1,26.5,Clear,156.92
+Connaught Place,Chandni Chowk,15.88,33.2,2,4,0,31.2,Clear,263.76
+Kalkaji,Connaught Place,21.23,61.4,9,5,1,32.0,Rain,491.5
+Connaught Place,Dwarka,5.37,11.3,5,3,0,38.1,Haze,115.74
+Lajpat Nagar,Pitampura,16.43,32.9,13,3,0,22.5,Clear,270.06
+Chandni Chowk,Saket,22.29,61.1,20,3,0,29.0,Thunderstorm,508.64
+Rajouri Garden,Kalkaji,23.93,94.5,17,4,0,27.1,Thunderstorm,581.89
+Kalkaji,Connaught Place,7.86,23.2,15,5,1,26.7,Fog,157.52
+Pitampura,Chandni Chowk,7.73,23.0,17,3,0,34.1,Clouds,179.12

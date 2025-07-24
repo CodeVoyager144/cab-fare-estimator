@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Delhi Cab Fare Predictor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <style>
+        body {
+            background: #f8f9fa;
+        }
+        .container {
+            max-width: 650px;
+            margin-top: 40px;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 12px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        .results-box {
+            min-height: 160px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            border: 1px solid #dfdfdf;
+            padding: 20px;
+            margin-bottom: 18px;
+        }
+        .image-box {
+            min-height: 500px;
+            background: #f4f8fb;
+            border-radius: 6px;
+            border: 1px solid #dfdfdf;
+            padding: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .input-box {
+            background: #fff;
+            border-radius: 6px;
+            border: 1px solid #dfdfdf;
+            padding: 18px;
+        }
+        .full-height {
+            height: 100%;
+        }
+        .label-bold {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-body-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Gaadi Karo</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/index">Home</a>
+        </li>
+          <li class="nav-item">
+          <a class="nav-link" href="https://ride.guru">Ride Comparison</a>
+        </li>
+ <li class="nav-item">
+          <a class="nav-link" href="https://www.taxifarefinder.com/newsroom/">News</a>
+        </li>
+
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+<div class="container-fluid mt-4">
+    <div class="row">
+        <!-- Left Column -->
+        <div class="col-md-7">
+            <div class="results-box mb-3">
+                <h4 class="label-bold">🔖Results</h4>
+                {% if error %}
+                    <div class="alert alert-danger mt-2" role="alert">
+                        {{ error }}
+                    </div>
+                {% endif %}
+                {% if result %}
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><b>From:</b> {{ result.origin }}</li>
+                        <li class="list-group-item"><b>To:</b> {{ result.destination }}</li>
+                        <li class="list-group-item"><b>Estimated Fare:</b> ₹{{ result.adjusted_fare }}</li>
+                        <li class="list-group-item"><b>Base Fare:</b> ₹{{ result.base_fare }} (Weather: {{ result.weather }}, Adj: {{ result.adjustment_percent }})</li>
+                        <li class="list-group-item"><b>Distance:</b> {{ result.distance }} km</li>
+                        <li class="list-group-item"><b>Duration:</b> {{ result.duration }} min</li>
+                        <li class="list-group-item"><b>Temperature:</b> {{ result.temperature }} °C</li>
+                    </ul>
+                {% else %}
+                    <span class="text-muted">🔖Result will appear here.</span>
+                {% endif %}
+            </div>
+            <div class="input-box">
+                <form method="POST" novalidate>
+                    <div class="mb-3">
+                        <label for="origin" class="form-label label-bold">📍Origin</label>
+                        <input type="text"
+                               id="origin"
+                               name="origin"
+                               class="form-control"
+                               placeholder="Enter Origin (e.g., Saket, Delhi)"
+                               value="{{ request.form.origin if request.method=='POST' else '' }}"
+                               required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="destination" class="form-label label-bold">📍Destination</label>
+                        <input type="text"
+                               id="destination"
+                               name="destination"
+                               class="form-control"
+                               placeholder="Enter Destination (e.g., Noida, Uttar Pradesh)"
+                               value="{{ request.form.destination if request.method=='POST' else '' }}"
+                               required>
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100">Predict</button>
+                </form>
+            </div>
+        </div>
+        <!-- Right Column -->
+        <div class="col-md-5">
+            <div class="image-box full-height">
+                {% if result and result.map_url %}
+                    <img src="{{ result.map_url }}" alt="Route Map" class="img-fluid rounded border">
+                {% else %}
+                    <img src="{{ url_for('static', filename='my_image.png') }}" alt="Cab Image" class="img-fluid rounded border">
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
